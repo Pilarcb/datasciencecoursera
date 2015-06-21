@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README: Getting and Cleaning Data Course Project
 
 This file describes how run_analysis.R script works.
@@ -15,3 +16,6 @@ Third, there are two output files generated in the current working directory:
 - 2tidydatasetmeans.txt (225 Kb): it contains a data frame called ´result´ with 180*68 dimension.
 
 Finally, use my2data <- read.table("2tidydatasetmeans.txt") command in RStudio to read this .txt file. This second tidy data set has a 180*68 dimension.There are 6 activities in total and 30 subjects in total, thus there are 180 rows with all combinations for each of the 66 features (as the second tidy data set needs to have the average of each variable for each activity and each subject).
+=======
+# datasciencecoursera
+>>>>>>> 77b63f47ac621e7e0f5fe0a853130af6c3f7e0b3
