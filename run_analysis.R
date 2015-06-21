@@ -94,10 +94,6 @@
 
   write.table(result, "2tidyDatasetmeans.txt") # write out the 2nd Dataset
 
-  # my2data <- read.table("/Users/apple/Desktop/Coursera/2tidyDatasetmeans.txt"
+  # my2data <- read.table("/Users/apple/Desktop/Coursera/2tidyDatasetmeans.txt")
   # my2data[1:10, 1:6]
-         
-         
-  
-
        
